@@ -1,0 +1,5 @@
+{
+  "buildCommand": "node fix-dirs.cjs",
+  "outputDirectory": "dist",
+  "framework": null
+}
